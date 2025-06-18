@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-06-18T13:52:12.095278",
+  "records_processed": 8760,
+  "date_range": {
+    "start": "2022-01-01",
+    "end": "2022-12-31"
+  },
+  "total_consumption_kwh": 876000.0,
+  "avg_hourly_kwh": 100.01141682840507,
+  "data_quality": {
+    "valid": 8759,
+    "missing": 1
+  },
+  "files_created": [
+    "energy_data.parquet",
+    "energy_sample.csv",
+    "daily_summary.parquet"
+  ]
+}
